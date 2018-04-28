@@ -1,0 +1,5 @@
+machine-learning-ex*/ex*/lib/*
+machine-learning-ex*/ex*-py/__pycache__/*
+octave-workspace
+submit.m
+token.mat
